@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'GloboFutura-Light';
+    src: url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Light.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GloboFutura-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Bold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GloboFutura-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Medium.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GloboFutura-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Regular.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/vxcomunicacao/globofutura@master/GloboFutura-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
